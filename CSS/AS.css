@@ -1,0 +1,35 @@
+
+td {
+	background-color: LightGreen;
+	border: 1px solid #000000;
+	padding: 5px;
+}
+
+th {
+	background-color: #ff6600;
+	border: 1px solid #000000;
+	padding: 5px;
+}
+
+
+header {
+	text-align: center;
+	background-color: #2eb82e;
+	color: Black;
+	font-size: 50px;
+}
+
+body {
+	background-color: #a6a6a6;
+	padding: 5px;
+}
+
+a {
+    color: Black;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+a:hover { 
+	text-decoration: underline;
+}
