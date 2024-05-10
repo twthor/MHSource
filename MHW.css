@@ -1,0 +1,90 @@
+header {
+	text-align: center;
+	background-color: #2eb82e;
+	color: Black;
+	font-size: 50px;
+}
+
+body {
+	background-color: #a6a6a6;
+}
+
+main {
+	background-color: #a6a6a6;
+}
+
+td {
+	background-color: #2eb82e;
+	border: 1px solid #000000;
+	padding: 5px;
+}
+
+th {
+	background-color: #ff6600;
+	border: 1px solid #000000;
+	padding: 5px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: Black;
+  padding: 10px;
+}
+
+.grid-item {
+  background-color: #2eb82e;
+  border: 1px solid Black;
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.grid-container2{
+	display: grid;
+	grid-template-columns: auto;
+	background-color: #lightgrey;
+	padding: 10px;
+}
+
+a {
+    color: White;
+    text-decoration: underline;
+    background-color: #2eb82e;
+}
+
+a:hover {
+	text-decoration: border;
+	background-color: #ff6600;
+}
+
+.a1 {
+	Color: black;
+}
+.a1:hover{
+	text-decoration: underline;
+}
+
+Input.submit{
+	background-color: Blue;
+}
+
+h2 {
+	background-color: #2eb82e;
+	color: Black;
+	font-size: 40px;
+}
+
+label {
+	font-size: 20px;
+}
+
+input [type="text"]{
+	box-sizing: border-box;
+}
+
+input [type="submit"]{
+
+}
+
+.wrapper{ width: 350px; padding: 20px; }
